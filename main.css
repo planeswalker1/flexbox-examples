@@ -45,3 +45,15 @@ input {
   padding: 20px 50px;
   display: flex;
 }
+
+.main-column {
+  flex: 3;
+}
+
+.sidebar-one {
+  flex: 1;
+}
+
+.sidebar-two {
+  flex: 1;
+}
