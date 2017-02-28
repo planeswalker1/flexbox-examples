@@ -35,3 +35,12 @@ input {
 .form-row input {
   flex:1;
 }
+
+/* second example */
+.column-layout {
+  background-color: #FFF;
+  line-height: 1.65;
+  margin: 40px auto 0 auto;
+  max-width: 1300px;
+  padding: 20px 50px;
+}
