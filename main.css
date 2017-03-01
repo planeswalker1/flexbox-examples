@@ -101,6 +101,7 @@ input {
   align-items: center;
   background-color: #FFF;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   margin: 40px auto 0 auto;
   max-width: 80%;
