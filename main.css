@@ -64,14 +64,15 @@ input {
 
 /* third example */
 .call-outs-container {
-  max-width: 1400px;
+  display: flex;
   margin: 40px auto 0 auto;
+  max-width: 1400px;
 }
 
 .call-out {
-  padding: 20px;
   box-sizing: border-box;
   margin-bottom: 20px;
+  padding: 20px;
 }
 
 .call-out:nth-child(1) {
