@@ -133,4 +133,5 @@ input {
 .center-me {
   color: #FFF;
   font-size: 50px;
+  margin: auto;
 }
