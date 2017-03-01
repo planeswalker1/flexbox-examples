@@ -119,3 +119,17 @@ input {
   text-align: center;
   width: 150px;
 }
+
+
+/* fifth example */
+.banner {
+  background-color: #2a2a2a;
+  height: 400px;
+  margin: 40px auto 40px auto;
+  max-width: 80%;
+}
+
+.center-me {
+  color: #FFF;
+  font-size: 50px;
+}
