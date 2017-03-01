@@ -98,20 +98,23 @@ input {
 
 /* fourth example */
 .fixed-size-container {
-  max-width: 80%;
-  margin: 40px auto 0 auto;
+  align-items: center;
   background-color: #FFF;
+  display: flex;
+  justify-content: space-around;
+  margin: 40px auto 0 auto;
+  max-width: 80%;
   padding: 30px 0;
 }
 
 .fixed-size {
-  width: 150px;
-  height: 100px;
   background-color: #990b47;
   color: #FFF;
-  line-height: 100px;
-  text-align: center;
-  font-weight: bold;
   font-size: 60px;
+  font-weight: bold;
+  height: 100px;
+  line-height: 100px;
   margin-bottom: 20px;
+  text-align: center;
+  width: 150px;
 }
