@@ -124,6 +124,7 @@ input {
 /* fifth example */
 .banner {
   background-color: #2a2a2a;
+  display: flex;
   height: 400px;
   margin: 40px auto 40px auto;
   max-width: 80%;
