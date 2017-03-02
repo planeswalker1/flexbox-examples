@@ -135,3 +135,26 @@ input {
   font-size: 50px;
   margin: auto;
 }
+
+/* sixth example */
+.equal-height-container {
+  margin: 0 auto;
+  max-width: 80%;
+}
+
+.first {
+  background-color: #FFF;
+  padding: 20px;
+}
+
+.second {
+  background-color: yellow;
+}
+
+.second-a {
+  background-color: #c0dbe2;
+}
+
+.second-b {
+  background-color: #cdf1c3;
+}
