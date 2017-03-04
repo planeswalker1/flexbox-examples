@@ -138,17 +138,20 @@ input {
 
 /* sixth example */
 .equal-height-container {
+  display: flex;
   margin: 0 auto;
   max-width: 80%;
 }
 
 .first {
   background-color: #FFF;
+  flex: 1;
   padding: 20px;
 }
 
 .second {
   background-color: yellow;
+  flex: 1;
 }
 
 .second-a {
